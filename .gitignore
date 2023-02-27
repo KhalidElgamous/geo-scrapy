@@ -1,0 +1,7 @@
+
+*.py[doc]
+scrapinghub.yml
+
+__pycache__/
+project.egg-info/
+build/
